@@ -1,2 +1,3 @@
 # airline-system
-Events
+**Events**
+![Events_UML](assests/UML.drawio.png)
