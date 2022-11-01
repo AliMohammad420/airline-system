@@ -1,6 +1,6 @@
 'use strict';
 require('dotenv').config();
-const PORT = process.env.PORT || 3030;
+const PORT = process.env.PORT || 3001;
 const ioServer = require('socket.io')(PORT);
 const airLineSystem = ioServer.of('/airline');
 
