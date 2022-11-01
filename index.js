@@ -1,3 +1,3 @@
 'use strict';
 
-require('./components/system');
+require('./system/system');
